@@ -1,0 +1,53 @@
+*{
+    margin-top: -25;
+    padding: auto;
+    resize: both;
+}
+#tableHeader{
+    width: 100%; 
+}
+.logo{
+    width: 60px;
+}
+header{
+    background-color: #ee2a2a;
+    padding: 5px;
+    position: relative;  
+}
+nav{
+    display: inline-block;
+    margin-right: 30px;
+    font-weight: bolder;
+    font-size: 20px;
+    text-decoration-color: blueviolet;
+}
+a{
+    margin-right: 30px;
+    text-transform: uppercase;
+}
+nav a:hover, a:active{
+    background-color: greenyellow;
+}
+body{
+    max-width: 15;
+    background-color: #f8bcbc;
+    font-family: Verdana,sans-serif;
+    color: black;
+    text-align: justify;
+    padding: 0;
+}
+
+footer{
+    position: relative;
+    text-align: center;
+    margin-bottom: 15px;
+    padding: 0px;
+    clear: both; 
+}
+.footer-section{
+    background-color: #ee2a2a;
+    color: black;
+    width: 100%;
+    bottom: 0;
+    position: 50%;
+}

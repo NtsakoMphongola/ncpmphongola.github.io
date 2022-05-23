@@ -1,0 +1,90 @@
+*{
+    margin-top: -25;
+    padding: auto;
+    resize: both;
+}
+
+#tableHeader{
+    width: 100%;
+}
+.logo{
+    width: 60px;
+}
+header{
+    background-color: #ee2a2a;
+    padding: 5px;
+    position: relative;
+}
+nav{
+    display: inline-block;
+    margin-right: 30px;
+    font-weight: bolder;
+    font-size: 20px;
+    text-decoration-color: rgb(131, 8, 247);
+}
+a{
+    margin-right: 30px;
+    text-transform: uppercase;
+}
+nav a:hover, a:active{
+    background-color: rgb(186, 226, 43);
+}
+video{
+    width: 100% ;
+}
+.maintable{
+    width: 100%;
+}
+.background{
+    width: 85%;
+    text-align: left;
+    color: white;
+    font-size: medium;
+    font-family: Tahoma;
+}
+h1{
+    color: rgb(47, 35, 219);
+    text-align: left;
+    text-shadow: rgb(219, 219, 7);
+    font-family: 'Franklin Medium';
+    font-style: italic;
+    padding-top: 3%;
+}
+
+.btn{
+    background-color: fuchsia;
+    text-transform: capitalize;
+    text-align: right;
+    font-family: arial;
+    font-size: 18px;
+    display: inline-block;
+    border: 3px solid rgb(12, 240, 42);
+    margin-top: 25px;
+    width: 160px;
+    height: 50px;
+}
+.Img{
+    width: 100%;
+}
+footer{
+    position: relative;
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 0px;
+    clear: both;
+}
+body{
+    background-color: gray;
+    font-family: Verdana,sans-serif;
+    color: black;
+    text-align: justify;
+    padding: 5;
+}
+.footer-section{
+    background-color: #ee2a2a;
+    color: black;
+    width: 100%;
+    height: 15vh;
+    bottom: 0;
+    position: 50%;
+}
